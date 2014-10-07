@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-laces",
+  "version": "0.1.0",
+  "description": "Small utility library for use (primarily) with Bootstrap 3+.",
+  "main": "src/less/bl-utilities.less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EvanHammond/bootstrap-laces.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "utility",
+    "css",
+    "less"
+  ],
+  "author": "Evan Hammond <evan.hammond@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvanHammond/bootstrap-laces/issues"
+  },
+  "homepage": "https://github.com/EvanHammond/bootstrap-laces",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-less": "^0.11.4"
+  }
+}

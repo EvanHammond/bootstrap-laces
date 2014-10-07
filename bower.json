@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-laces",
+  "version": "0.1.0",
+  "homepage": "https://github.com/EvanHammond/bootstrap-laces",
+  "authors": [
+    "Evan Hammond <evan.hammond@gmail.com>"
+  ],
+  "description": "Small utility library for use (primarily) with Bootstrap 3+.",
+  "keywords": [
+    "bootstrap",
+    "utility",
+    "css",
+    "less"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
