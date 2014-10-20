@@ -1,7 +1,8 @@
 {
   "name": "bootstrap-laces",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/EvanHammond/bootstrap-laces",
+  "main": "src/less/bl-utilities.less",
   "authors": [
     "Evan Hammond <evan.hammond@gmail.com>"
   ],
